@@ -1,0 +1,56 @@
+/* *{
+    outline: dashed black;
+} */
+
+
+h1 {
+    font-size: 40px;
+    text-shadow: 4px 4px rgb(145, 127, 127);
+    color: rgb(210, 200, 142);
+    background-color: teal;
+    border-radius: 15px;
+    padding: 10px;
+    float: left;
+}
+
+body{
+    width:960px;
+    margin: 0 auto;
+    background-color: thistle;
+}
+
+
+main{
+    background-color: honeydew;
+    clear: both;
+}
+header{
+    height: 250px;
+    background-color: lavender;
+}
+a{
+    text-decoration: none;
+}
+
+img{
+    height: 350px;
+    width: 500px;
+    margin-left: 100px;
+}
+
+article{
+    width: 60%;
+}
+
+aside{
+    height: 400px;
+    width: 20%;
+    background-color: magenta;
+    float: right;
+}
+
+footer {
+    background-color: maroon;
+    height: 250px;
+    clear: both;
+}

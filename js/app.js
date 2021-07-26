@@ -1,0 +1,1 @@
+console.log('javacript file is connected.');
